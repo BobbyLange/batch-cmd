@@ -29,7 +29,7 @@ Still, ipconfig is useful because of its extensions. “ipconfig /release” fol
 
 **net use** — “to map drives of networked CNC machines.”
 
-chkdsk /f C: — “checks your (C: partition) hard disk for errors and fixes bad sectors.”
+**chkdsk /f C:** — “checks your (C: partition) hard disk for errors and fixes bad sectors.”
 
 systeminfo — “this command gives you a thorough list of info about your computer.”
 
