@@ -27,7 +27,7 @@ Still, ipconfig is useful because of its extensions. “ipconfig /release” fol
 
 **cacls** — “most handy to manually access hidden files and folder.” 
 
-net use — “to map drives of networked CNC machines.”
+**net use** — “to map drives of networked CNC machines.”
 
 chkdsk /f C: — “checks your (C: partition) hard disk for errors and fixes bad sectors.”
 
