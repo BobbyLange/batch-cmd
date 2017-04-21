@@ -1,5 +1,3 @@
-# Batch Commands
-
 ## What Is Batch?
 
 For those who don't know, a Batch file is a text file containing a series of commands to be executed by Command Prompt (CMD). When a batch file is run, CMD reads the file and executes its commands.
