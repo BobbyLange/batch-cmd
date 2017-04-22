@@ -9,11 +9,7 @@ To open your CMD, click START > RUN > type "CMD" > OK
 ### Batch file for starting programs in windows
 
 ````batch
-@echo off
-color 40
-Title Admin : AdminName
-start chrome
-Pause
+
 ````
 
 
