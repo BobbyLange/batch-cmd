@@ -35,7 +35,7 @@ Still, ipconfig is useful because of its extensions. “ipconfig /release” fol
 <hr>
 
 
-**nbstat** — for looking u names of computers on your network.
+**nbstat** — For looking names of computers on your network.
 
 **netstat -ano | find "est"** — To get a list of processes with established CP connections.
 
@@ -43,11 +43,11 @@ Still, ipconfig is useful because of its extensions. “ipconfig /release” fol
 
 **cacls** — Most handy to manually access hidden files and folder.
 
-**net use** — to map drives of networked CNC machines.
+**net use** — To map drives of networked CNC machines.
 
 **chkdsk /f C:** — Checks your (C: partition) hard disk for errors and fixes bad sectors.
 
-**systeminfo** — “this command gives you a thorough list of info about your computer.”
+**systeminfo** — This command gives you a thorough list of info about your computer.
 
 <hr>
 
