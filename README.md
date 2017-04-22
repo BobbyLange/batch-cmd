@@ -35,7 +35,7 @@ Still, ipconfig is useful because of its extensions. “ipconfig /release” fol
 <hr>
 
 
-**nbstat** — “for looking u names of computers on your network.”
+**nbstat** — for looking u names of computers on your network.
 
 **netstat -ano | find “est”** — “to get a list of processes with established CP connections.”
 
