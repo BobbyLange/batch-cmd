@@ -12,7 +12,7 @@ To open your CMD, click START > RUN > type "CMD" > OK
 These are some VERY basic commands you need to know:
 (please try out some of these commands in your CMD).
 
-@echo off - This gets rid of that "c:\documents...etc"
+@echo off - This gets rid of that "c:\documents....etc"
 
 echo - This displays a message, (e.g "echo hello" = "hello") because if you type "hello" into CMD it will interpret "hello" as the command
 
@@ -20,7 +20,7 @@ cls - Clears the CMD of all text.
 
 color - Changes the color (type "help color" for a list of colors).
 
-goto - Goes to a particular word in your text (you will learn more later)
+goto - Goes to a particular word in your text
 
 pause - Pauses the command prompt and displays the message: "Press any key to continue..."
 ````
