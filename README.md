@@ -41,7 +41,7 @@ Still, ipconfig is useful because of its extensions. “ipconfig /release” fol
 
 **tasklist | find "[process id]"** — "to get the name of the executable associated with the particular process id that I'm interested in."
 
-**cacls** — “most handy to manually access hidden files and folder.” 
+**cacls** — "most handy to manually access hidden files and folder." 
 
 **net use** — “to map drives of networked CNC machines.”
 
