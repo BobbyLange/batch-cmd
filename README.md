@@ -39,13 +39,13 @@ Still, ipconfig is useful because of its extensions. “ipconfig /release” fol
 
 **netstat -ano | find "est"** — To get a list of processes with established CP connections.
 
-**tasklist | find "[process id]"** — "to get the name of the executable associated with the particular process id that I'm interested in."
+**tasklist | find "[process id]"** — To get the name of the executable associated with the particular process id that I'm interested in.
 
-**cacls** — "most handy to manually access hidden files and folder." 
+**cacls** — Most handy to manually access hidden files and folder.
 
-**net use** — “to map drives of networked CNC machines.”
+**net use** — to map drives of networked CNC machines.
 
-**chkdsk /f C:** — “checks your (C: partition) hard disk for errors and fixes bad sectors.”
+**chkdsk /f C:** — Checks your (C: partition) hard disk for errors and fixes bad sectors.
 
 **systeminfo** — “this command gives you a thorough list of info about your computer.”
 
