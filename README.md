@@ -51,6 +51,13 @@ Still, ipconfig is useful because of its extensions. “ipconfig /release” fol
 
 <hr>
 
+### Run a Lot of Commands 
+
+echo If you type echo before a sentence it displays it as a message!.
+echo Wow, thats pretty cool!
+
+<hr>
+
 ### VER
 This batch command shows the version of MS-DOS you are using.
 
