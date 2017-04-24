@@ -57,7 +57,9 @@ echo If you type echo before a sentence it displays it as a message!.
 echo Wow, thats pretty cool!
 
 #copy that into notepad and save as .bat
+
 #Double-click on the .bat file...cool hey!
+
 NOPE. It went too fast...try adding a pause at the end, like this:
 
 <hr>
