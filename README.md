@@ -53,7 +53,7 @@ Still, ipconfig is useful because of its extensions. “ipconfig /release” fol
 
 ### Comments
 
-:: this is a comment
+REM To skip the following command, put "REM" before them
 
 <hr>
 
