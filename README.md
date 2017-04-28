@@ -55,10 +55,10 @@ Still, ipconfig is useful because of its extensions. “ipconfig /release” fol
 
 REM To skip the following command, put "REM" before them 
 
-another alternative is ::
+another alternative is **::**
 
 ````batch
-your codes here :: your comment
+your codes here :: your comment here
 ````
 
 <hr>
