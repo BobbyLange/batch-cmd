@@ -88,7 +88,9 @@ This batch command lists the contents of a directory.
 This batch command help to find the system date.
 
 ### ECHO
+Turns the command-echoing feature on or off, or displays a message. Used without parameters, echo displays the current echo setting.
 This batch command displays messages, or turns command echoing on or off.
+
 
 ### EXIT
 This batch command exits the DOS console.
