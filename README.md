@@ -22,6 +22,8 @@ color - Changes the color (type "help color" for a list of colors).
 
 goto - Goes to a particular word in your text
 
+:: for comments 
+
 pause - Pauses the command prompt and displays the message: "Press any key to continue..."
 ````
 
