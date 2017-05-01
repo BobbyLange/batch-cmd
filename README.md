@@ -24,6 +24,8 @@ goto - Goes to a particular word in your text
 
 :: for comments 
 
+rem - This batch command is used for remarks in batch files, preventing the content of the remark from being executed.
+
 pause - Pauses the command prompt and displays the message: "Press any key to continue..."
 ````
 
