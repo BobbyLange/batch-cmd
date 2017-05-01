@@ -218,3 +218,6 @@ This batch command sets the title displayed in the console window.
 
 ### SET
 Displays the list of environment variables on the current system.
+
+
+TODO : add some more commands
